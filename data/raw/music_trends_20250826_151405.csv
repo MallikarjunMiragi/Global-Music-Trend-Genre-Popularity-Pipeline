@@ -1,0 +1,6 @@
+track_id,track_name,artist,album,genre,popularity,duration_ms,explicit,release_date,energy,danceability,valence,fetched_at
+SPT001,Anti-Hero,Taylor Swift,Midnights,Pop,95,201200,False,2022-10-21,0.65,0.71,0.33,2025-08-26T15:14:05.648661
+SPT002,As It Was,Harry Styles,Harry's House,Pop Rock,92,175000,False,2022-04-01,0.72,0.63,0.68,2025-08-26T15:14:05.648661
+SPT003,Heat Waves,Glass Animals,Dreamland,Indie Pop,89,238000,False,2020-06-29,0.78,0.75,0.76,2025-08-26T15:14:05.648661
+SPT004,Blinding Lights,The Weeknd,After Hours,R&B,98,200040,False,2019-11-29,0.73,0.51,0.31,2025-08-26T15:14:05.648661
+SPT005,Levitating,Dua Lipa,Future Nostalgia,Pop,87,203064,False,2020-03-27,0.82,0.88,0.85,2025-08-26T15:14:05.648661
