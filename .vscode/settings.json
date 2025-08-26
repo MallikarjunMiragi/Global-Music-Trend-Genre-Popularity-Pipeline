@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "./venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "files.associations": {
+        "*.yaml": "yaml",
+        "*.yml": "yaml"
+    }
+}
+
